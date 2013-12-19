@@ -13,11 +13,11 @@
 コミックマーケット85 12/31 3日目 西し34a にてDevLOVE Pubの新刊をリリースします。
 新刊は「**Far East Development Review**」というIT系技術合同です。○○ビジネスレビュー？ いえ、知らない子ですね。
 
-詳細は[**Far East Development Review特設ページ**をご覧ください](https://github.com/devlovepub/devlovepub.github.io/wiki/far_east_development_revirew)
+詳細は[**Far East Development Review特設ページ**](https://github.com/devlovepub/devlovepub.github.io/wiki/far_east_development_revirew)をご覧ください。
 
 ## DevLOVE Pubの速報をつかむならば
 
-[DevLOVE PubのFBページ](https://www.facebook.com/devlovepub)にいいねを押すと捗ります
+[DevLOVE PubのFBページ](https://www.facebook.com/devlovepub)にいいねを押すと捗ります。
 
 ## 2013年11月までの活動と作品情報
 
