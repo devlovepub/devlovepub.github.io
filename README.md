@@ -15,6 +15,8 @@
 
 詳細は[**Far East Developer Review特設ページ**](https://github.com/devlovepub/devlovepub.github.io/wiki/Far-East-Developer-Review)をご覧ください。
 
+![表紙](https://raw.github.com/devlovepub/devlovepub.github.io/master/wiki/images/Far-East-Developer-Review/FEDR_for_Web.png)
+
 ## DevLOVE Pubの速報をつかむならば
 
 [DevLOVE PubのFBページ](https://www.facebook.com/devlovepub)にいいねを押すと捗ります。
