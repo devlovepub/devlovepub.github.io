@@ -26,6 +26,7 @@
 ### [DevLOVE Pub第一弾: DevLOVE HangerFlight Experiences](https://github.com/devlovepub/devlovepub.github.io/wiki/DevLOVE-HangerFlight-Experiences)
 
 IT業界の現場で日々足掻いている書き手たちが、自分たちの生業や生活の中で見い出し磨き上げてきた知識を、エッセイという形で読み手の皆様に語りかけています。
+
 [技術志向の方々のための出版サービス「達人出版会」](http://tatsu-zine.com/books/hangerflight)からご購入いただけます！
 
 ### [DevLOVE Pub ライトニングトーカーの告白](https://github.com/devlovepub/devlovepub.github.io/wiki/DevLOVE-Pub-%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%88%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E5%91%8A%E7%99%BD)	
