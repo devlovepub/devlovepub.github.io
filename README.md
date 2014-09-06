@@ -8,20 +8,18 @@
 - 書籍製作の楽しさを発見しよう。広げよう。
 - 個人が考えや主張を世に問う領域を拡張させよう。
 
-## 2013年新刊情報
+## 2014年新刊情報
 
-コミックマーケット85 12/31 3日目 西し34a にてDevLOVE Pubの新刊をリリースします。
-新刊は「**Far East Developer Review**」というIT系技術合同です。○○ビジネスレビュー？ いえ、知らない子ですね。
+コミックマーケット86 8/17 に「**Far East Developer Review**」の第2号をリリースしました。
+近日中にWeb頒布を行う予定です。乞うご期待！	
 
-詳細は[**Far East Developer Review特設ページ**](https://github.com/devlovepub/devlovepub.github.io/wiki/Far-East-Developer-Review)をご覧ください。
-
-![表紙](https://raw.github.com/devlovepub/devlovepub.github.io/master/wiki/images/Far-East-Developer-Review/FEDR.jpg)
+![表紙](https://raw.github.com/devlovepub/devlovepub.github.io/master/wiki/images/Far-East-Developer-Review-2/FEDR.jpg)
 
 ## DevLOVE Pubの速報をつかむならば
 
 [DevLOVE PubのFBページ](https://www.facebook.com/devlovepub)にいいねを押すと捗ります。
 
-## 2013年11月までの活動と作品情報
+## 2013年12月までの活動と作品情報
 
 ### [DevLOVE Pub第一弾: DevLOVE HangerFlight Experiences](https://github.com/devlovepub/devlovepub.github.io/wiki/DevLOVE-HangerFlight-Experiences)
 
@@ -41,6 +39,16 @@ IT業界の現場で日々足掻いている書き手たちが、自分たちの
 これ一発で、あなたのLightningTalksスキルをマスタークラスまで引き上げると豪語できるクオリティといってももはや過言ではない！
 
 オンラインブース[DevLOVE Pub the booth](https://devlovepub.booth.pm/items/4379)にて頒布中です！
+
+### [Far East Developer Review (2013 Winter)](https://raw.github.com/devlovepub/devlovepub.github.io/master/wiki/images/Far-East-Developer-Review/FEDR.jpg)
+
+『Far East Developer Review』（FEDR）とは、DevLOVE Pubの活動理念に基づいて、2013年、同集団の刊行誌として創刊する世界最新のIT技術マガジンです。
+ 「IT業界を楽しむ、IT技術者として腕を上げる事を目指す人の総合IT技術マガジン」として、今回のリリースを皮切りに毎号書き手の興味に沿った特集企画や書き下ろし記事を組み合わせ、時宜に合ったテーマとしてまとめて掲載する予定です。
+ 多くのプログラマやコンサルタント、さらにマネージャ層から支持されたらうれしいなと思っています。
+
+詳細は[**Far East Developer Review特設ページ**](https://github.com/devlovepub/devlovepub.github.io/wiki/Far-East-Developer-Review)をご覧ください。
+
+オンラインブース[DevLOVE Pub the booth](https://devlovepub.booth.pm/items/4383)にて頒布中です！
 
 ## ご意見、ご感想、ご要望、ご連絡など
 
