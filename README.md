@@ -10,8 +10,8 @@
 
 ## 2014年新刊情報
 
-コミックマーケット86 8/17 に「**Far East Developer Review**」の第2号をリリースしました。
-近日中にWeb頒布を行う予定です。乞うご期待！	
+コミックマーケット86で頒布した「**Far East Developer Review**」の第2号、Web頒布を開始しました！
+オンラインブース[DevLOVE Pub the booth](https://devlovepub.booth.pm/items/61822)にて頒布中です！
 
 ![表紙](https://raw.github.com/devlovepub/devlovepub.github.io/master/wiki/images/Far-East-Developer-Review-2/FEDR.jpg)
 
