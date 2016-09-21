@@ -28,7 +28,7 @@
 
 ### [Far East Developer Review Far East Developer Review 技術書典 特別号](https://devlovepub.booth.pm/items/326372)
 2016/6/25に行われた技術書典に「総集編+書き下ろし3編」を提げて参加しました。
-![表紙](https://raw.github.com/devlovepub/devlovepub.github.io/master/wiki/images/FEDR_series/fedr_techbookfest.png)
+![表紙](https://raw.github.com/devlovepub/devlovepub.github.io/master/wiki/images/FEDR_series/fedr_techbookfest.jpg)
 
 
 ### [Far East Developer Review 2016 Devsumi](https://devlovepub.booth.pm/items/326358)
